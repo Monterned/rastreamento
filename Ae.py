@@ -49,7 +49,7 @@ sleep(2)
 
 
 
-controle = nav.find_element(By.ID,"/html/body/form/div[4]/div[1]/div[1]/div/div[2]/div[1]/div[2]/div[2]/input").click()
+controle = nav.find_element(By.ID,"/html/body/form/div[3]/div[1]/div[1]/div/div[2]/div[1]/div[2]/div[2]/input").click()
 # controle = nav.find_element(By.ID,"txtPas").send_keys("CANAA")
 
 # controle = nav.find_element('xpath','/html/body').click()
